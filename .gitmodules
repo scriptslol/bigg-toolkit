@@ -13,3 +13,6 @@
 [submodule "deps/lz4"]
 	path = deps/lz4
 	url = https://github.com/lz4/lz4.git
+[submodule "deps/imgui-node-editor"]
+	path = deps/imgui-node-editor
+	url = https://github.com/thedmd/imgui-node-editor.git
