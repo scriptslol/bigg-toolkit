@@ -16,3 +16,6 @@
 [submodule "deps/imgui-node-editor"]
 	path = deps/imgui-node-editor
 	url = https://github.com/thedmd/imgui-node-editor.git
+[submodule "deps/SimpleFileWatcher"]
+	path = deps/SimpleFileWatcher
+	url = https://github.com/tbeu/SimpleFileWatcher.git
